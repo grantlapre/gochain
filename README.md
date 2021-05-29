@@ -1,0 +1,2 @@
+# gochain
+to prepare gochain
